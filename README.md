@@ -92,7 +92,7 @@ GCP_REGION="us-central1"
 GCP_PROJECT="bdc-training"
 
 TAVILY_API_KEY="your key"
-LOAN_DB_BUCKET="loan-navigator-data-6-1"
+LOAN_DB_BUCKET="loan-navigator-data-3-1"
 LOAN_DB_BLOB="LoanDB_BlueLoans4all.sqlite"
 
 VERTEX_AI_MODEL="gemini-2.0-flash"
