@@ -1,4 +1,4 @@
-# 6_1_Loan_Navigator_Agent
+# 3_1_Loan_Navigator_Agent
 
 # Loan Navigator Agent Suite  
 ### *AI-Powered Multi-Agent Support System for Fintech Loan Operations*
